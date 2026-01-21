@@ -1,3 +1,5 @@
-#Assignment 1
+# Assignment 1
 ---
-![images/surreal_collage_3.png]
+![Alt text](surreal_collage_1.png)
+![Alt text](surreal_collage_2.png)
+![Alt text](surreal_collage_3.png)
